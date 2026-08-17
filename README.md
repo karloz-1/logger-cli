@@ -1,5 +1,5 @@
-Para iniciar el proyecto debes de colocar el siguiente comando:
+Para ejecutar el proyecto debes de poner en una terminal los siguientes comandos:
 ```sh
+npm install
 npm run start
 ```
-Lo que equivale a colocar `node src/app.js`
